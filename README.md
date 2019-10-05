@@ -114,6 +114,13 @@ Crea informes
 Mejora el rendimiento del equipo con datos visuales en tiempo real que tu equipo puede emplear.
 
 ## Backlog.
+Es lugar donde vamos a ir colocando todas nuestras historias de usuarios.
+Para la construcción de historias de usuario es primordial definir un rol/usuario del sistema para poder identificar las necesidades de este de mejor manera.
+
+Es importante poner a las historias de usuario un nivel de prioridad (Alto, Medio, Bajo) para poder organizar nuestra bitácora de mejor manera y crear una jerarquización de tareas y centrar esfuerzos en las tareas que conlleven mayor trabajo. 
+ 
+ Las historias de usuario deben contar con ID J-101 o U-202
+
 
 Se incluyen todas las diferentes ideas y necesidades del producto. Es un elemento que se puede ir modificando a lo largo del ciclo
 
@@ -123,12 +130,24 @@ Una identificación| Tema | Como un | Necesito| Así podré| Notas | Prioridad |
 -- | --| --|--|--|--|--|--
 J-1|Juego|Administrador| Crear nuevos usuarios| Aumentar mis usuarios| ...| Alta| En proceso
 
-
 ## Planificación del ciclo
+
+
+## Planificación del Sprint/ciclo
+Duración de 2-3 semanas
+Establecer un límite de tiempo para la consecución de una serie de tareas que usa como referencia el Backlog. 
+Para la contrucción del Sprint se debe seleccionar las historias de usuarios del backlog y subdividirlas en tareas más pequeñas, donde cada miembro del equipo debe seleccionar una tarea y estimar el tiempo que le llevará en una escala del 1-5.
+Cada miembro del equipo debe  realizar una tarea, a solucionar un problema o implementar una nueva capacidad dentro del sistema.
 
 Ejemplo:
 
-Producto | Pendiente | En progreso | Terminado 
----|---|---|---
-J-1| Página web| Nivel 1 | Login
+Se toma una historia de usario 
+J-1|Juego|Administrador| Crear nuevos usuarios| Aumentar mis usuarios| ...| Alta|
+
+A esta historia se la subdivide en tareas más pequeñas
+J-101|Juego|Administrador| Crear nuevos usuarios| Aumentar mis usuarios| ...| Alta|
+         |Tarea|Asignado|Estimado|
+  J-101-1|Crear una sección restringida| Pedro| 3
+  J-101-2|Crear formulario para usuarios| Carlos| 2
+  J-101-3|Habilitar una base de datos para registro de usuarios|Ana|2
 
