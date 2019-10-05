@@ -114,6 +114,11 @@ Crea informes
 Mejora el rendimiento del equipo con datos visuales en tiempo real que tu equipo puede emplear.
 
 ## Backlog.
+Es lugar donde vamos a ir colocando todas nuestras historias de usuarios.
+Para la construcción de historias de usuario es primordial definir un rol/usuario del sistema para poder identificar las necesidades de este de mejor manera.
+Es importante poner a las historias de usuario un nivel de prioridad (Alto, Medio, Bajo) para poder organizar nuestra bitácora de mejor manera y crear una jerarquización de tareas y centrar esfuerzos en las tareas que conlleven mayor trabajo. 
+ 
+ Las historias de usuario deben contar con ID J-101 o U-202
 
 Se incluyen todas las diferentes ideas y necesidades del producto. Es un elemento que se puede ir modificando a lo largo del ciclo
 
